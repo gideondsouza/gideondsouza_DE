@@ -6,9 +6,12 @@
 layout: default
 ---
 
-up:1
-This page is a placeholder for the German version of my website gideondsouza.com
+Hallo,
+I'm Gideon Dsouza, a passionate and curious developer. I'm active on stackoverflow:
+<a href="https://stackoverflow.com/users/368070/gideon">
+<img src="https://stackoverflow.com/users/flair/368070.png" width="208" height="58" alt="profile for gideon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gideon at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this 
+This page is a placeholder for the German version of my website http://gideondsouza.com
+Currently 
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
