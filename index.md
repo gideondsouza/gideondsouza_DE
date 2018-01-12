@@ -6,6 +6,7 @@
 layout: default
 ---
 
+up:1
 This page is a placeholder for the German version of my website gideondsouza.com
 
 This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this 
