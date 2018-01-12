@@ -3,7 +3,7 @@
 # Here you can change the text shown in the Home page before the Latest Posts section.
 # comments.. probably no need for blog posts
 #
-layout: home
+layout: default
 ---
 
 This page is a placeholder for the German version of my website gideondsouza.com
