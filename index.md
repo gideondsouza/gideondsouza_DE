@@ -49,12 +49,6 @@ Have a look at my [StackOverflow Resume](https://stackoverflow.com/cv/gideondsou
 
 ### Contact Me
 
-<form action="https://formspree.io/gidisrael@gmail.com"
-      method="POST">
-    Your Name :<input type="text" name="name">
-    Your Email:<input type="email" name="_replyto">
-    <input type="submit" value="Send">
-    Your Message :<input type="text" name="message">
-</form>
+![My email address](https://raw.githubusercontent.com/gideondsouza/gideondsouza_DE/master/email_in_pixels.png)
 
 
