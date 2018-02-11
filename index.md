@@ -24,13 +24,11 @@ entwickler Ich bin mitglied bei stackoverflow:<br/>
 
 ### Details
 
-* entwickelte eine vollständig platform für indiens größte bank fvon der konzeptionierungbis zum erfolg.
-* Experienced at efficiently choosing the right technology, tools, and architecture.
-* Always looking to learn new languages, stacks and domains.
+* entwickelte eine vollständig platform für indiens größte bank von der konzeptionierung bis zum erfolg.
+* erfahrung die effizienten richtigen Technologien, Tools Und Aufbau zu wählen.
+* Immer dabei neue Programmiersprachen, stacks und Domainen zu lernen.
 
-### Highlights
-
-: 
+### Highlights 
 
 * I recently made contributions into the [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/log/?qt=author&q=gideon). 
 * I got my Microsoft Certified Technology Specialist in Windows Dev before high school:
