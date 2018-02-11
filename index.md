@@ -5,7 +5,7 @@
 layout: default
 ---
 
- Englisch: [http://gideondsouza.com]
+ Englisch: <http://gideondsouza.com>
 
 
 
@@ -31,7 +31,7 @@ entwickler Ich bin mitglied bei stackoverflow:<br/>
 ### Highlights 
 
 * neulich ander mitarbeit von [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/log/?qt=author&q=gideon)beteiligt. 
-* Erlangte  mein Microsoft Certified Technology Specialist in Windows Dev vor meinem High School Abschluss.:
+* Erlangte  mein Microsoft Certified Technology Specialist in Windows Dev vor meinem High School Abschluss:
 <sub>
 https://mcp.microsoft.com/authenticate/validatemcp.aspx  
 TranscriptID: 779121  
