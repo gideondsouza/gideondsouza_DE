@@ -14,7 +14,7 @@ layout: default
 
 
 # Über mich
-Ich heiße Gideon Dsouza, und einleidenschaftlicherundneugierig
+Ich heiße Gideon Dsouza, und ein leidenschaftlicherundneugierig
 entwickler Ich bin mitglied bei stackoverflow:<br/>
 <a href="https://stackoverflow.com/users/368070/gideon">
 <img src="https://stackoverflow.com/users/flair/368070.png" width="208" height="58" alt="profile for gideon at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for gideon at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
