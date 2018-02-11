@@ -30,22 +30,23 @@ entwickler Ich bin mitglied bei stackoverflow:<br/>
 
 ### Highlights 
 
-* I recently made contributions into the [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/log/?qt=author&q=gideon). 
-* I got my Microsoft Certified Technology Specialist in Windows Dev before high school:
+* neulich ander mitarbeit von [Linux Kernel](http://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/log/?qt=author&q=gideon)beteiligt. 
+* Erlangte  mein Microsoft Certified Technology Specialist in Windows Dev vor meinem High School Abschluss.:
 <sub>
 https://mcp.microsoft.com/authenticate/validatemcp.aspx  
 TranscriptID: 779121  
 Password: open1234</sub>
-* I qualified Google Code Jam 2013 in Perl.
-* I qualified Google Code Jam 2012 (C#) with [Rank #8898](http://code.google.com/codejam/contest/1460488/scoreboard#sp=8881)
-* I contributed to the [Perl core](http://perl5.git.perl.org/perl.git/blob/d62e4400a62cae85d546fe1f5b0731630b537851:/AUTHORS#l413) 
-* I contributed [to a Perl web framework : Dancer2](https://github.com/PerlDancer/Dancer2/blob/master/lib/Dancer2.pm#L272)
-Have a look at my [StackOverflow Resume](https://stackoverflow.com/cv/gideondsouza) 
+* Qualifizierung runde in Google Code Jam 2013 [Rank #15271](https://code.google.com/codejam/contest/2270488/scoreboard#sp=15271).
+* Qualifizierung runde in Google Code Jam 2012 [Rank #8898](http://code.google.com/codejam/contest/1460488/scoreboard#sp=8881)
+* Beigetragen zum [Perl core](http://perl5.git.perl.org/perl.git/blob/d62e4400a62cae85d546fe1f5b0731630b537851:/AUTHORS#l413) 
+* Beigetragen [zum Perl web framework : Dancer2](https://github.com/PerlDancer/Dancer2/blob/master/lib/Dancer2.pm#L272)
+Schauen Sie auf meinen[StackOverflow Lebenslauf](https://stackoverflow.com/cv/gideondsouza) 
 
  
 
 
-### Contact Me
+### Kontaktiere mich
+
 
 ![My email address](https://raw.githubusercontent.com/gideondsouza/gideondsouza_DE/master/email_in_pixels.png)
 
