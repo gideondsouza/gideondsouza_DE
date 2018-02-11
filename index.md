@@ -5,7 +5,7 @@
 layout: default
 ---
 
-This page is a German version of my English website http://gideondsouza.com
+ Englisch: [http://gideondsouza.com]
 
 
 
