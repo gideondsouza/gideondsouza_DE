@@ -40,7 +40,9 @@ Password: open1234</sub>
 * Qualifizierung runde in Google Code Jam 2012 [Rank #8898](http://code.google.com/codejam/contest/1460488/scoreboard#sp=8881)
 * Beigetragen zum [Perl core](http://perl5.git.perl.org/perl.git/blob/d62e4400a62cae85d546fe1f5b0731630b537851:/AUTHORS#l413) 
 * Beigetragen [zum Perl web framework : Dancer2](https://github.com/PerlDancer/Dancer2/blob/master/lib/Dancer2.pm#L272)
-Schauen Sie auf meinen [StackOverflow Lebenslauf](https://stackoverflow.com/cv/gideondsouza) 
+
+Schauen Sie auf meinen <img src='https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.svg'
+width='30px' height='30px'/>[StackOverflow Lebenslauf](https://stackoverflow.com/cv/gideondsouza) 
 
  
 
